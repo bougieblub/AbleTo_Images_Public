@@ -1,5 +1,5 @@
 # AbleTo_Images_Public
-Images for Looker Dashboards
+Images that you want to link in HTML for Looker Dashboards
 
 ## Step 1: Download Image into your Public Repository on GitHub
 1. Create a public repository on GitHub
