@@ -10,3 +10,4 @@ Images that you want to link in HTML for Looker Dashboards
 2. Paste your URL for your image from GitHub into GitHack.
 3. Copy the URL from the "Use this URL in Production" output.
 4. Insert URL into your text tile, using HTML formatting.
+       Example Absolute URL: <img src="https://www.example.com/images/dinosaur.jpg" alt="Dinosaur" />
